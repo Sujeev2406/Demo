@@ -1,4 +1,2 @@
-#
-Demo
-
-This is an example.
+#Demo
+This is an example!
